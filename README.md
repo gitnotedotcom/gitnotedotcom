@@ -7,7 +7,7 @@ Student
 "I am interested in working with websites or applications, and I never stop learning to develop myself."
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [gitnotedotcom@hotmail.com](mailto:notemaildotcom@gmail.com)
+* ✉️  You can contact me at [notemaildotcom@gmail.com](mailto:notemaildotcom@gmail.com)
 * 🧠  I'm learning I've been learning React.js, Node.js and API
 
 ### Skills
